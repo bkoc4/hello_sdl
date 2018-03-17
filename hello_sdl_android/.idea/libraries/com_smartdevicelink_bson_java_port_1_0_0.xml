@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.smartdevicelink:bson_java_port-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bson_java_port-1.0.0.aar/550302218bacd4b386529ece44d4487d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bson_java_port-1.0.0.aar/550302218bacd4b386529ece44d4487d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.smartdevicelink/bson_java_port/1.0.0/52fe6d56f8fba150526b1ac28cd3779478114e0c/bson_java_port-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
